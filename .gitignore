@@ -1,0 +1,16 @@
+# macbook file
+.DS_Store
+__MACOSX
+
+# out file
+out
+
+# Editor directories and files
+.idea
+.vscode
+.project
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw
