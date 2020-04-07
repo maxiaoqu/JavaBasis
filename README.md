@@ -6,20 +6,20 @@
 
 <h2>
     JavaBasis
-    <h4>³õÊ¼Ñ§Ï°javaµÄÁ·Ï°ºÍÏà¹ØÖªÊ¶µã£¬¼ÍÂ¼java×ÔÑ§¾­Ñé£¡</h4>
+    <h4>åˆå§‹å­¦ä¹ javaçš„ç»ƒä¹ å’Œç›¸å…³çŸ¥è¯†ç‚¹ï¼Œçºªå½•javaè‡ªå­¦ç»éªŒï¼</h4>
 </h2>
 
-## Ïà¹ØÁ´½Ó
-- [gitHubµØÖ·](https://github.com/maxiaoqu/JavaBasis)
+## ç›¸å…³é“¾æ¥
+- [gitHubåœ°å€](https://github.com/maxiaoqu/JavaBasis)
 
-## Ö÷ÒªÎ¬»¤ÈËÔ±
-|ÈËÔ±|githubÕËºÅ|Í·Ïñ|×÷ÕßÍøÕ¾|ÁªÏµÓÊÏä|
+## ä¸»è¦ç»´æŠ¤äººå‘˜
+|äººå‘˜|githubè´¦å·|å¤´åƒ|ä½œè€…ç½‘ç«™|è”ç³»é‚®ç®±|
 |---|---|---|---|---|
-|ÂëĞ¡È¤|[maxiaoqu](https://github.com/maxiaoqu) |  ![](https://avatars1.githubusercontent.com/u/25891598?s=60&v=4)|www.maxiaoqu.com|maxiaoqu@gmail.com
+|ç å°è¶£|[maxiaoqu](https://github.com/maxiaoqu) |  ![](https://avatars1.githubusercontent.com/u/25891598?s=60&v=4)|www.maxiaoqu.com|maxiaoqu@gmail.com
 
 
-## ÎÄ¼ş½á¹¹
+## æ–‡ä»¶ç»“æ„
 ```shell
-©À©¤©¤ out..............................Êä³ö
-©¸©¤©¤ src..............................´úÂë
+â”œâ”€â”€ out..............................è¾“å‡º
+â””â”€â”€ src..............................ä»£ç 
 ```
