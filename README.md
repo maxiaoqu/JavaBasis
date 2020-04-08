@@ -13,7 +13,7 @@
 - [gitHub地址](https://github.com/maxiaoqu/JavaBasis)
 
 ## 学习java代码纪录
-- [学习java代码纪录](https://github.com/maxiaoqu/JavaBasis/src/com/maxiaoquJavaBasis/)
+- [学习java代码纪录](https://github.com/maxiaoqu/JavaBasis/tree/master/src/com/maxiaoquJavaBasis/)
 
 
 ## 主要维护人员
