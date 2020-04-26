@@ -19,7 +19,7 @@
 
 ### Demo02MethodDefine.java(方法定义格式、三种定义格式)
 <p align="center">
-    <img width="300" src="/src/images/day04/03-方法调用流程图解.png">
+    <img width="300" src="https://github.com/maxiaoqu/JavaBasis/blob/master/src/images/day04/03-方法调用流程图解.png">
 </p>
 
 ```shell
@@ -55,7 +55,7 @@
 
 ### Demo03MethodParam.java(对比有参数、无参数)
 <p align="center">
-    <img width="300" src="/src/images/day04/04-方法返回值的有无.png">
+    <img width="300" src="https://github.com/maxiaoqu/JavaBasis/blob/master/src/images/day04/04-方法返回值的有无.png">
 </p>
 
 ```shell
