@@ -1,6 +1,9 @@
 ## 方法的调用与练习、方法重载
 
-### Demo01Method.java(简单方法的使用)
+
+>## 第一部分：方法的格式、使用
+
+### demo01.Demo01Method.java(简单方法的使用)
 打印一个矩形
 ```shell
 一、定义格式：
@@ -17,9 +20,9 @@
     3. 方法定义之后，自己不会执行的；如果希望执行，一定要进行方法的调用。
 ```
 
-### Demo02MethodDefine.java(方法定义格式、三种定义格式)
+### demo01.Demo02MethodDefine.java(方法定义格式、三种定义格式)
 <p align="center">
-    <img width="300" src="https://raw.githubusercontent.com/maxiaoqu/JavaBasis/master/src/image/day04/03-方法调用流程图解.png">
+    <img width="100%" src="https://raw.githubusercontent.com/maxiaoqu/JavaBasis/master/src/image/day04/03-方法调用流程图解.png">
 </p>
 
 ```shell
@@ -53,9 +56,9 @@
     注意：此前学习的方法，返回值类型固定写为void，这种方法只能够单独调用，不能进行打印调用或者赋值调用。
 ```
 
-### Demo03MethodParam.java(对比有参数、无参数)
+### demo01.Demo03MethodParam.java(对比有参数、无参数)
 <p align="center">
-    <img width="300" src="https://raw.githubusercontent.com/maxiaoqu/JavaBasis/master/src/image/day04/04-方法返回值的有无.png">
+    <img width="100%" src="https://raw.githubusercontent.com/maxiaoqu/JavaBasis/master/src/image/day04/04-方法返回值的有无.png">
 </p>
 
 ```shell
@@ -66,7 +69,7 @@
 例如定义一个方法，打印固定10次HelloWorld。
 ```
 
-### Demo04MethodReturn.java(有返回值、无返回值)
+### demo01.Demo04MethodReturn.java(有返回值、无返回值)
 ```shell
 一、题目要求：
     定义一个方法，用来【求出】两个数字之和。（你帮我算，算完之后把结果告诉我。）
@@ -79,25 +82,28 @@
     但是对于无返回值的方法，只能使用单独调用，不能使用打印调用或者赋值调用。
 ```
 
-### Demo05MethodSame.java(方法练习1)
+
+>## 第一部分：方法练习
+
+### demo02.Demo01MethodSame.java(方法练习1)
 ```shell
 一、题目要求：
     定义一个方法，用来判断两个数字是否相同。
 ```
 
-### Demo06MethodSum.java(方法练习2)
+### demo02.Demo02MethodSum.java(方法练习2)
 ```shell
 一、题目要求：
     定义一个方法，用来求出1-100之间所有数字的和值。
 ```
 
-### Demo07MethodPrint.java(方法练习3)
+### demo02.Demo03MethodPrint.java(方法练习3)
 ```shell
 一、题目要求：
     定义一个方法，用来打印指定次数的HelloWorld。
 ```
 
-### Demo08MethodNotice.java(使用方法的注意事项)
+### demo02.Demo04MethodNotice.java(使用方法的注意事项)
 ```shell
 一、使用方法的注意事项：
     1. 方法应该定义在类当中，但是不能在方法当中再定义方法。不能嵌套。
@@ -110,7 +116,10 @@
     8. 一个方法当中可以有多个return语句，但是必须保证同时只有一个会被执行到，两个return不能连写。
 ```
 
-### Demo09MethodOverload.java(方法重载)
+
+>## 第一部分：方法重载练习
+
+### demo03.Demo01MethodOverload.java(方法重载)
 ```shell
 一、方法的重载（Overload）：
 多个方法的名称一样，但是参数列表不一样。
@@ -127,7 +136,7 @@
     2. 与方法的返回值类型无关
 ```
 
-### Demo10MethodOverloadSame.java(方法重载练习1)
+### demo03.Demo02MethodOverloadSame.java(方法重载练习1)
 ```shell
 一、题目要求：
     比较两个数据是否相等。
@@ -135,12 +144,12 @@
     并在main方法中进行测试。
 ```
 
-### Demo11OverloadJudge.java(判断哪些是正常的重载关系)
+### demo03.Demo03OverloadJudge.java(判断哪些是正常的重载关系)
 ```shell
 判断哪些是正常的重载关系
 ```
 
-### Demo12OverloadPrint.java(输出各种类型的重载形式)
+### demo03.Demo04OverloadPrint.java(输出各种类型的重载形式)
 ```shell
 在调用输出语句的时候，println方法其实就是进行了多种数据类型的重载形式。
 
