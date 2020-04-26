@@ -1,5 +1,7 @@
+// 数据类型
 // byte short int long float double char boolean
 // String
+
 // 在调用输出语句的时候，println方法其实就是进行了多种数据类型的重载形式。
 public class Demo12OverloadPrint {
     public static void main(String[] args) {

@@ -19,7 +19,7 @@
 
 ### Demo02MethodDefine.java(方法定义格式、三种定义格式)
 <p align="center">
-    <img width="300" src="/src/images/day04-03-方法调用流程图解.png">
+    <img width="300" src="/src/images/day04/03-方法调用流程图解.png">
 </p>
 
 ```shell
@@ -55,7 +55,7 @@
 
 ### Demo03MethodParam.java(对比有参数、无参数)
 <p align="center">
-    <img width="300" src="/src/images/day04-04-方法返回值的有无.png">
+    <img width="300" src="/src/images/day04/04-方法返回值的有无.png">
 </p>
 
 ```shell
@@ -143,4 +143,8 @@
 ### Demo12OverloadPrint.java(输出各种类型的重载形式)
 ```shell
 在调用输出语句的时候，println方法其实就是进行了多种数据类型的重载形式。
+
+一、数据类型
+// byte short int long float double char boolean
+// String
 ```
