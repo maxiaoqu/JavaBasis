@@ -23,9 +23,11 @@ public class Demo04MethodReturn {
 
         // 对于void没有返回值的方法，只能单独，不能打印或者赋值
 //        System.out.println(printSum(2, 3)); // 错误写法！
+        // 等同于
 //        System.out.println(void);
 //
 //        int num2 = printSum(10, 20); // 错误写法！
+        // 等同于
 //        int num3 = void;
 //        void num4 = void;
     }
