@@ -93,10 +93,10 @@
 ### Demo06ArrayOne.java(只有一个数组的内存图)
 <p align="center">
     <span>java中的内存划分</span>
-    <img width="300" src="https://github.com/maxiaoqu/JavaBasis/blob/master/src/images/day05/01-Java中的内存划分.png"/>
+    <img width="300" src="https://raw.githubusercontent.com/maxiaoqu/JavaBasis/master/src/image/day05/01-Java中的内存划分.png"/>
     <br/>
     <span>只有一个数组的内存图</span>
-    <img width="300" src="https://github.com/maxiaoqu/JavaBasis/blob/master/src/images/day05/02-只有一个数组的内存图.png"/>
+    <img width="300" src="https://raw.githubusercontent.com/maxiaoqu/JavaBasis/master/src/image/day05/02-只有一个数组的内存图.png"/>
 </p>
 
 ```shell
@@ -106,7 +106,7 @@
 ### Demo07ArrayTwo.java(两个独立数组的内存图)
 <p align="center">
     <span>有两个独立数组的内存图</span>
-    <img width="300" src="https://github.com/maxiaoqu/JavaBasis/blob/master/src/images/day05/03-有两个独立数组的内存图.png"/>
+    <img width="300" src="https://raw.githubusercontent.com/maxiaoqu/JavaBasis/master/src/image/day05/03-有两个独立数组的内存图.png"/>
 </p>
 
 ```shell
@@ -116,7 +116,7 @@
 ### Demo08ArraySame.java(两个引用指向同一个数组的内存图)
 <p align="center">
     <span>两个引用指向同一个数组的内存图</span>
-    <img width="300" src="https://github.com/maxiaoqu/JavaBasis/blob/master/src/images/day05/04-两个引用指向同一个数组的内存图.png"/>
+    <img width="300" src="https://raw.githubusercontent.com/maxiaoqu/JavaBasis/master/src/image/day05/04-两个引用指向同一个数组的内存图.png"/>
 </p>
 
 ```shell
@@ -153,7 +153,7 @@
 ### Demo11ArrayLength.java(获取数组的长度)
 <p align="center">
     <span>数组的长度运行期间不可改变</span>
-    <img width="300" src="https://github.com/maxiaoqu/JavaBasis/blob/master/src/images/day05/05-数组的长度运行期间不可改变.png"/>
+    <img width="300" src="https://raw.githubusercontent.com/maxiaoqu/JavaBasis/master/src/image/day05/05-数组的长度运行期间不可改变.png"/>
 </p>
 
 ```shell
@@ -173,7 +173,7 @@
 ### Demo13ArrayMax.java(获取数组最大值)
 <p align="center">
     <span>比武招亲的示意图:[获取数组最值]</span>
-    <img width="300" src="https://github.com/maxiaoqu/JavaBasis/blob/master/src/images/day05/06-比武招亲的示意图.png"/>
+    <img width="300" src="https://raw.githubusercontent.com/maxiaoqu/JavaBasis/master/src/image/day05/06-比武招亲的示意图.png"/>
 </p>
 
 ```shell
@@ -188,7 +188,7 @@
 ### Demo15ArrayReverse.java(数组元素的反转)
 <p align="center">
     <span>数组元素反转的思路</span>
-    <img width="300" src="https://github.com/maxiaoqu/JavaBasis/blob/master/src/images/day05/07-数组元素反转的思路.png"/>
+    <img width="300" src="https://raw.githubusercontent.com/maxiaoqu/JavaBasis/master/src/image/day05/07-数组元素反转的思路.png"/>
 </p>
 
 ```shell
