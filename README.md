@@ -13,13 +13,7 @@
 - [gitHub地址](https://github.com/maxiaoqu/JavaBasis)
 
 ## 学习java代码纪录
-- [学习java代码记录[总目录]](/src/com/maxiaoquJavaBasis/)
-    - [Java基础知识](/src/com/maxiaoquJavaBasis/day00-knowledge)
-    - [常量、变量](/src/com/maxiaoquJavaBasis/day01-code)
-    - [类型转换、编码、运算符、表达式、方法](/src/com/maxiaoquJavaBasis/day02-code)
-    - [流程控制语句：if判断语句、switch语句、for循环、while循环、do-while循环、break关键字、continue关键字、for嵌套循环](/src/com/maxiaoquJavaBasis/day03-code)
-    - [方法的调用与练习、方法重载](/src/com/maxiaoquJavaBasis/day04-code)
-    - [数组的初始化、使用](/src/com/maxiaoquJavaBasis/day05-code)
+- [Java入门](/src/com/maxiaoquJavaBasis/)
 
 
 ## 主要维护人员
