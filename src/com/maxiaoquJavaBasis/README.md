@@ -5,3 +5,5 @@
 - [流程控制语句：if判断语句、switch语句、for循环、while循环、do-while循环、break关键字、continue关键字、for嵌套循环](/src/com/maxiaoquJavaBasis/day03-code)
 - [方法的调用与练习、方法重载](/src/com/maxiaoquJavaBasis/day04-code)
 - [数组的初始化、使用](/src/com/maxiaoquJavaBasis/day05-code)
+- [类与对象、封装、构造方法](/src/com/maxiaoquJavaBasis/day06-code)
+- [Api的使用：Scanner、Random、ArrayList](/src/com/maxiaoquJavaBasis/day07-code)
